@@ -22,7 +22,7 @@ To set up this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/BrendaHaight/text-editor.git
-cd jate
+cd text-editor
 ```
 
 2. Install server dependencies:
